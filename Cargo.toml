@@ -2,6 +2,10 @@
 name = "subid_dyn"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = "NSS and PAM module to dynamic alloc subid ranges"
+repository = "https://github.com/chlorodose/subid_dyn"
+homepage = "https://github.com/chlorodose/subid_dyn"
 
 [lib]
 crate-type = ["cdylib"]
